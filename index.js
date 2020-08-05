@@ -109,4 +109,4 @@ rollBtn.addEventListener('click', function() {
         player2Dice.classList.remove("active")
         player1Dice.classList.add("active")
     }
-    //
+    
